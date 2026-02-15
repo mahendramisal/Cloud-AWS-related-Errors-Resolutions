@@ -1,7 +1,7 @@
 # AWS-Errors-Resolutions 
 Collection of AWS cloud issues faced in real production environments, along with their root causes and practical solutions.
 
-Amazon Web Services offers highly scalable and reliable cloud services. However, in complex enterprise setups, engineers often face issues related to IAM, networking, scaling, security, and service limits. Below are some commonly encountered AWS errors and how to resolve them.
+Amazon Web Services offers highly scalable and reliable cloud services. However, in complex enterprise setups, we often face issues related to IAM, networking, scaling, security, and service limits. Below are some commonly encountered AWS errors and how to resolve them.
 
 # (1) "AccessDenied: User is not authorized to perform this action"
 
