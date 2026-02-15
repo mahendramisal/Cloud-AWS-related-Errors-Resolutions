@@ -273,10 +273,10 @@ How to fix it:
   
 # Advanced Best Practices (Production Level)
 To avoid most AWS production issues:
-✔ Use least-privilege IAM
-✔ Enable CloudTrail and Config
-✔ Monitor with CloudWatch
-✔ Automate using IaC (Terraform/CloudFormation)
-✔ Enable budget alerts
-✔ Implement tagging policy
-✔ Maintain DR and backup strategy
+- Use least-privilege IAM
+- Enable CloudTrail and Config
+- Monitor with CloudWatch
+- Automate using IaC (Terraform/CloudFormation)
+- Enable budget alerts
+- Implement tagging policy
+- Maintain DR and backup strategy
